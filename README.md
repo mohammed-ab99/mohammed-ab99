@@ -12,7 +12,7 @@
 - 🌱 I’m a self-learning person who is exploring the recent technologies  
   
 
-- ❓ Ask me about anything related to Data Science and React  
+- ❓ Ask me about anything related to Web Development and Data Science
   
 
 - ⚡ Commitment is the key to SUCCESS  
