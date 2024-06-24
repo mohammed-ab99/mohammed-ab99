@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center" style="margin-bottom: 20px;">Hi I'm Mohammed, a passionate Software Engineer 👨‍💻</div> 
 <br />
